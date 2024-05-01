@@ -10,8 +10,8 @@ const ErrorHandler = require("../utils/ErrorHandler");
 
 router.post(
   "/create-product",
-  isAuthenticated,
-  isAdmin("Admin"),
+  // isAuthenticated,
+  // isAdmin("Admin"),
   catchAsyncErrors(async (req, res, next) => {
     try {
       const shopId = req.body.shopId;

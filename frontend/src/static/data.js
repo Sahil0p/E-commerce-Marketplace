@@ -226,7 +226,8 @@ export const navItems = [
       title: "Shoes",
       subTitle: "",
       image_Url:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBQPQMVNRd6TtDkGs2dCri0Y-rxKkFOiEWw&usqp=CAU",
+      // "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBQPQMVNRd6TtDkGs2dCri0Y-rxKkFOiEWw&usqp=CAU",
+        "https://png.pngtree.com/png-vector/20220715/ourmid/pngtree-cool-and-creative-blue-shoes-illustration-png-image_5951209.png",
     },
     // {
     //   id: 6,
@@ -1097,20 +1098,20 @@ export const navItems = [
   
   export const footercompanyLinks = [
     {
-      name: "Game & Video",
+      name: "Accesories",
     },
     {
-      name: "Phone &Tablets",
+      name: "Clothes",
     },
     {
-      name: "Computers & Laptop",
+      name: "Shoes",
     },
-    {
-      name: "Sport Watches",
-    },
-    {
-      name: "Events",
-    },
+    // {
+    //   name: "Sport Watches",
+    // },
+    // {
+    //   name: "Events",
+    // },
   ];
   
   export const footerSupportLinks = [

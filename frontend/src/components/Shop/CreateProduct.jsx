@@ -422,7 +422,7 @@ const CreateProduct = () => {
         </div>
         <br />
         <div>
-          <label className="pb-2">fit</label>
+          <label className="pb-2">Fit</label>
           <select
             className="w-full mt-2 border h-[35px] rounded-[5px]"
             value={selectedFit}

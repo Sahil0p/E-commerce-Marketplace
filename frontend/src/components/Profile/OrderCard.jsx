@@ -21,7 +21,7 @@ const OrderCard = ({ order }) => {
             </Link>
           </div>
           <div className="text-sm text-gray-600">Status: {status}</div>
-          <div className="text-sm text-gray-600">Total Price: Rs {totalPrice}</div>
+          <div className="text-sm text-gray-600">Total Price: ₹ {totalPrice}</div>
         </div>
       </div>
       <div className="flex flex-col sm:flex-row-reverse items-center sm:mt-auto">

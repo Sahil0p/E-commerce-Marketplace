@@ -8,7 +8,8 @@ import styles from "../../styles/styles";
 import { RxCross1 } from "react-icons/rx";
 import axios from "axios";
 import { server } from "../../server";
-import CreateProduct from "../Shop/CreateProduct"
+// import CreateProduct from "../Shop/CreateProduct";
+import CreateProduct from "../Shop/CreateProduct";
 import { toast } from "react-toastify";
 import { getAllSellers } from "../../redux/actions/sellers";
 import { Link } from "react-router-dom";
