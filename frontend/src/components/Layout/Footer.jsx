@@ -19,10 +19,10 @@ const Footer = () => {
         <h1 className="lg:text-4xl text-3xl md:mb-0 mb-6 lg:leading-normal font-semibold md:w-2/5">
         <span className="text-[#77fc63]">Live chat </span>with us for queries{" "}
           <br />
-          Events and Offers
+          Events and Offers 
         </h1>
         <div>
-        <a href="https://wa.me/917277244691" target="_blank"><img src='whatsappclick.png' width='350px'
+        <a href="https://wa.me/7277244691" target="_blank"><img src='whatsappclick.png' width='350px'
           /></a>
         </div>
       </div>
