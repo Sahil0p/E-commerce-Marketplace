@@ -1,1 +1,1 @@
-@copyright by vaymp 
+
