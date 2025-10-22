@@ -1,4 +1,4 @@
-```markdown
+
 # 🌐 E-commerce Marketplace 🚀
 
 A full-stack e-commerce platform built with modern JavaScript technologies.
